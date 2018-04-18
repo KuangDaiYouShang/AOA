@@ -1,0 +1,6 @@
+This is the project for COT5405 SP18.
+
+Type make in the Terminal and follow the instructions.
+
+All the tasks work on some random cases I build, however, task2 and task4 cannot get the correct results
+in some samples which have the large size. I use debug to trace the variables in those random cases built on my own and is pretty sure each algorithm works properly. I could not debug on those sample cases with large size. 
